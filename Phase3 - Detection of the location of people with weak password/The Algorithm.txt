@@ -1,0 +1,12 @@
+1- Take weak passwords given as output by phase 2 function as an argument
+2- Search for the usernames that corresponde these passwords in users.txt
+	to do this, 
+		1- get usernames from users.txt and assign them a list 
+		2- get index of password
+		3- get username that has the same index with password using while loop
+3- Using Selenium, search for IP Addresses corresponding these usernames in Pfsense - Status - CaptivePortal 
+4- Fetch IPs and assign to a temporary list variable 
+5- Create the logical location information of related user using related IP address
+6- Finally go to Diagnostics - ARP Table, and serach for interface information using your IP address information, 
+then fetch the corresponding Interface information, assign it to a interfaces group.
+Not : In networking world, the interface info of a device gives us the logical location of that device!
