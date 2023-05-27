@@ -1,0 +1,40 @@
+
+"127.f.p.1" Cleartext-Password := "17yg04şgs" "Furkan PEKER"
+
+
+
+
+"ahmet" Cleartext-Password := "ahmet123" "Ahmet OZISIK"
+
+
+
+
+"ali" Cleartext-Password := "ali" "Ali BAKAN"
+
+
+
+
+"Necdet" Cleartext-Password := "ajd1348#28t**" "Necdet BEROK"
+
+
+
+
+"Burak" Cleartext-Password := "kuiqwasdi" "Burak YILDIZ"
+
+
+
+
+"Cenk" Cleartext-Password := "uiquiuiiuiuiuiuiuiuiuiuiui" "Cenk PEROKSIT"
+
+
+
+
+"Mert" Cleartext-Password := "pAMPh$3let" "MERT YILMAZ"
+
+
+
+
+"Dursun" Cleartext-Password := "123456789" "Dursun LEBALEB"
+
+
+

@@ -1,0 +1,8 @@
+1) name_surname: the situation of being present name or surname of user in the password
+Values=> 1: Not exist, 0: exist(which is bad situation)
+2) attackScenerio: a list of potential keyboard combinations created to predict the password
+Values=> 
+0: scenerio 1 - 1q2w3e4r5t6y7u8ı9o0p*ğ-ü
+1: scenerio 2 - 123456789
+2: scenerio 3 - uiquiuiiuiuiuiuiuiuiuiuiui
+3: scenerio 4 - good one 
