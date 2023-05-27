@@ -1,0 +1,20 @@
+
+"127.f.p.1" Cleartext-Password := "Pkr+48625"
+
+
+
+
+"furkan" Cleartext-Password := "furkan"
+
+
+
+
+"ahmet" Cleartext-Password := "ahmet123"
+
+
+
+
+"ali" Cleartext-Password := "ali"
+
+
+
